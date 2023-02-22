@@ -1,0 +1,244 @@
+,item_id,name,upper_item,explain,buy_price,sell_price,tag
+0,1001,Boots of Speed,"['3006', '3047', '3020', '3158', '3111', '3117', '3009']",Slightly increases Movement Speed,300,210,Boots
+0,1004,Faerie Charm,"['3028', '3070', '3073', '3114']",Slightly increases Mana Regen,125,88,ManaRegen
+0,1006,Rejuvenation Bead,"['3077', '3801', '3194']",Slightly increases Health Regen,150,105,HealthRegen
+0,1011,Giant's Belt,"['3083', '3084', '3022', '3143', '3742']",Greatly increases Health,600,700,Health
+0,1018,Cloak of Agility,"['3086', '3095', '3031', '3508']",Increases critical strike chance,800,560,CriticalStrike
+0,1026,Blasting Wand,"['3135', '3029', '3151', '3027', '3100', '3102', '3116', '3165', '3285']",Moderately increases Ability Power,850,595,SpellDamage
+0,1027,Sapphire Crystal,"['3057', '3070', '3010', '3024', '3073', '1402', '1414', '3802']",Increases Mana,350,245,Mana
+0,1028,Ruby Crystal,"['1011', '3075', '3211', '3136', '3068', '3010', '3801', '3044', '3052', '3053', '3067', '3814', '3116', '3748', '3751', '3916']",Increases Health,400,280,Health
+0,1029,Cloth Armor,"['3047', '1031', '3191', '3024', '3082', '3076', '3105']",Slightly increases Armor,300,210,Armor
+0,1031,Chain Vest,"['3068', '3109', '3026', '3193', '3742']",Greatly increases Armor,500,560,Armor
+0,1033,Null-Magic Mantle,"['3111', '3211', '1057', '3028', '3140', '3155', '3105', '3190', '3102', '3194']",Slightly increases Magic Resist,450,315,SpellBlock
+0,1036,Long Sword,"['3077', '3123', '1053', '3155', '3134', '3179', '3035', '3044', '3052', '3072', '3133', '3144', '3161']",Slightly increases Attack Damage,350,245,Damage
+0,1037,Pickaxe,"['3124', '3004', '3008', '3031', '3036', '3053', '3074', '3814', '3139']",Moderately increases Attack Damage,875,613,Damage
+0,1038,B. F. Sword,"['3095', '3026', '3031', '3072', '3161', '3508']",Greatly increases Attack Damage,1300,910,Damage
+0,1039,Hunter's Talisman,"['3706', '3715']",Provides damage against Monsters and Mana Regen in the Jungle,350,245,LifeSteal
+0,1041,Hunter's Machete,"['3706', '3715']",Provides damage and life steal versus Monsters,350,245,LifeSteal
+0,1042,Dagger,"['1043', '3091', '3006', '2015', '3085', '3086', '3046', '3101']",Slightly increases Attack Speed,300,210,AttackSpeed
+0,1043,Recurve Bow,"['3091', '3153', '3124', '3675', '1416', '1419']",Greatly increases Attack Speed,400,700,AttackSpeed
+0,1052,Amplifying Tome,"['3108', '3191', '3136', '3135', '3145', '3113', '3124', '3116', '3673', '3802', '3916']",Slightly increases Ability Power,435,305,SpellDamage
+0,1053,Vampiric Scepter,"['3072', '3074', '3812', '3139', '3144', '3181']",Basic attacks restore Health,550,630,Damage
+0,1054,Doran's Shield,,Good defensive starting item,450,180,Health
+0,1055,Doran's Blade,,Good starting item for attackers,450,180,Damage
+0,1056,Doran's Ring,,Good starting item for casters,400,160,Health
+0,1057,Negatron Cloak,"['3091', '3193', '3001']",Moderately increases Magic Resist,270,504,SpellBlock
+0,1058,Needlessly Large Rod,"['3089', '3907']",Greatly increases Ability Power,1250,875,SpellDamage
+0,1082,Dark Seal,['3041'],Provides Ability Power and Mana.  Increases in power as you kill enemies.,350,140,HealthRegen
+0,1083,Cull,,Provides damage and Life Steal on hit - Killing minions grant bonus Gold,450,180,Damage
+0,1400,Enchantment: Warrior,,Grants Attack Damage and Cooldown Reduction,525,1838,
+0,1401,Enchantment: Cinderhulk,,Grants Health and Immolate Aura,600,1750,
+0,1402,Enchantment: Runic Echoes,,Grants Ability Power and periodically empowers your Spells,250,1750,
+0,1412,Enchantment: Warrior,,Grants Attack Damage and Cooldown Reduction,525,1838,
+0,1413,Enchantment: Cinderhulk,,Grants Health and Immolate Aura,600,1750,
+0,1414,Enchantment: Runic Echoes,,Grants Ability Power and periodically empowers your Spells,250,1750,
+0,1416,Enchantment: Bloodrazor,,Increases Attack Speed and deals damage based on the target's Health,625,1838,
+0,1419,Enchantment: Bloodrazor,,Increases Attack Speed and deals damage based on the target's Health,625,1838,
+0,2003,Health Potion,,Consume to restore Health over time,50,20,Consumable
+0,2006,Showdown Health Potion,,Consume to restore Health over time,50,20,Consumable
+0,2009,Total Biscuit of Rejuvenation,,,0,0,
+0,2010,Total Biscuit of Everlasting Will,,,75,30,
+0,2015,Kircheis Shard,"['3094', '3095', '3087']",Attack speed and a chargable magic hit,400,490,AttackSpeed
+0,2031,Refillable Potion,['2033'],Restores Health over time. Refills at shop.,150,60,HealthRegen
+0,2033,Corrupting Potion,,Restores Health and Mana over time and boosts combat power - Refills at Shop,350,200,Active
+0,2047,Oracle's Extract,,Allows champion to see invisible or unseen enemy units,300,120,Consumable
+0,2051,Guardian's Horn,,Good starting item for tanks,950,380,Health
+0,2052,Poro-Snax,,,0,0,
+0,2054,Diet Poro-Snax,,,0,0,
+0,2055,Control Ward,,Used to disable wards and invisible traps in an area.,75,30,Consumable
+0,2065,Shurelya's Reverie,,Activate to speed up nearby allies.,600,1435,Health
+0,2138,Elixir of Iron,,Temporarily increases defenses. Leaves a trail for allies to follow.,500,200,Health
+0,2139,Elixir of Sorcery,,Temporarily grants Ability Power and Bonus Damage to champions and turrets.,500,200,Consumable
+0,2140,Elixir of Wrath,,Temporarily grants Attack Damage and heals you when dealing physical damage to champions.,500,200,Consumable
+0,2403,Minion Dematerializer,,,0,0,
+0,2419,Commencing Stopwatch,['2420'],,0,0,Active
+0,2420,Stopwatch,"['3157', '3026', '3193']",Activate to become invincible but unable to take actions,650,260,Active
+0,2421,Broken Stopwatch,"['3157', '3026', '3193']",Upgrades to stopwatch,650,260,
+0,2422,Slightly Magical Boots,"['3006', '3047', '3020', '3158', '3111', '3117', '3009']",Slightly increases Movement Speed,300,210,Boots
+0,2423,Perfectly Timed Stopwatch,"['3157', '3026', '3193']",Activate to become invincible but unable to take actions,650,260,Active
+0,2424,Broken Stopwatch,"['3157', '3026', '3193']",,650,260,
+0,3001,Abyssal Mask,['3379'],Nearby enemies take more magic damage,1180,2100,Health
+0,3003,Archangel's Staff,,Increases Ability Power based on maximum Mana,1050,2240,SpellDamage
+0,3004,Manamune,,Increases Attack Damage based on maximum Mana,675,1680,Damage
+0,3006,Berserker's Greaves,,Enhances Movement Speed and Attack Speed,500,770,AttackSpeed
+0,3007,Archangel's Staff (Quick Charge),,Increases Ability Power based on maximum Mana,1050,2240,SpellDamage
+0,3008,Manamune (Quick Charge),,Increases Attack Damage based on maximum Mana,675,1680,Damage
+0,3009,Boots of Swiftness,,Enhances Movement Speed and reduces the effect of slows,600,630,Boots
+0,3010,Catalyst of Aeons,"['3027', '3029', '3001']",Spend Mana to recover Health,350,770,Health
+0,3020,Sorcerer's Shoes,,Enhances Movement Speed and magic damage,800,770,Boots
+0,3022,Frozen Mallet,,Basic attacks slow enemies,900,2170,Damage
+0,3024,Glacial Shroud,"['3110', '3025', '3050', '3800']",Increases Armor and Cooldown Reduction,250,630,Armor
+0,3025,Iceborn Gauntlet,['3387'],Basic attacks create a slow field after spell cast,750,1890,Armor
+0,3026,Guardian Angel,,Periodically revives champion upon death,50,1120,Armor
+0,3027,Rod of Ages,,"Greatly increases Health, Mana, and Ability Power",650,1820,Health
+0,3028,Chalice of Harmony,"['3174', '3222']",Increases Mana and Health Regeneration,100,560,SpellBlock
+0,3029,Rod of Ages (Quick Charge),,"Greatly increases Health, Mana, and Ability Power",650,1820,Health
+0,3030,Hextech GLP-800,,Activate to fire icy bolts to slow enemies,450,1960,SpellDamage
+0,3031,Infinity Edge,['3371'],Massively enhances critical strikes,425,2380,CriticalStrike
+0,3033,Mortal Reminder,,Overcomes enemies with high Health recovery and Armor,550,1960,ArmorPenetration
+0,3035,Last Whisper,"['3033', '3036']",Overcomes enemies with high Armor,750,1015,ArmorPenetration
+0,3036,Lord Dominik's Regards,,Overcomes enemies with high health and armor,475,1960,Damage
+0,3040,Seraph's Embrace,,,3200,2240,Active
+0,3041,Mejai's Soulstealer,,Grants Ability Power for kills and assists,1050,980,SpellDamage
+0,3042,Muramana,,,2400,1680,OnHit
+0,3043,Muramana,,,2400,1680,OnHit
+0,3044,Phage,"['3078', '3071']",Attacks and kills give a small burst of speed,500,875,Damage
+0,3046,Phantom Dancer,,Move faster while attacking enemies and gain a shield when on low health.,900,1820,AttackSpeed
+0,3047,Ninja Tabi,,Enhances Movement Speed and reduces incoming basic attack damage,500,770,Armor
+0,3048,Seraph's Embrace,,,3200,2240,Active
+0,3050,Zeke's Convergence,,Grants you and your ally bonuses when you cast your ultimate.,250,1575,SpellBlock
+0,3052,Jaurim's Fist,"['3022', '3053', '3748']",Attack Damage and stacking Health on Unit Kill,450,840,Health
+0,3053,Sterak's Gage,,Shields against large bursts of damage,725,2240,Health
+0,3057,Sheen,"['3078', '3100', '3025']",Grants a bonus to next attack after spell cast,700,735,Mana
+0,3065,Spirit Visage,,Increases Health and healing effects,800,1960,CooldownReduction
+0,3067,Kindlegem,"['3065', '3071', '3109', '3083', '3152', '3161']",Increases Health and Cooldown Reduction,400,560,CooldownReduction
+0,3068,Sunfire Cape,['3373'],Constantly deals damage to nearby enemies,650,1925,Armor
+0,3070,Tear of the Goddess,"['3003', '3004']",Increases maximum Mana as Mana is spent,375,595,Mana
+0,3071,Black Cleaver,['3380'],Dealing physical damage to enemy champions reduces their Armor,950,2100,ArmorPenetration
+0,3072,Bloodthirster,,"Grants Attack Damage, Life Steal and Life Steal now overheals",950,2450,Damage
+0,3073,Tear of the Goddess (Quick Charge),"['3007', '3008']",Increases maximum Mana as Mana is spent,375,595,Mana
+0,3074,Ravenous Hydra,,"Melee attacks hit nearby enemies, dealing damage and restoring Health",400,2450,Active
+0,3075,Thornmail,,Returns damage taken from basic attacks as magic damage,500,2030,Health
+0,3076,Bramble Vest,['3075'],Prevents enemies from using Life Steal against you.,400,700,Armor
+0,3077,Tiamat,"['3074', '3748']",Melee attacks hit nearby enemies,475,928,HealthRegen
+0,3078,Trinity Force,['3384'],Tons of Damage,333,2613,Health
+0,3082,Warden's Mail,"['3110', '3143', '3075']",Slows Attack Speed of enemy champions when receiving basic attacks,400,700,Armor
+0,3083,Warmog's Armor,,Grants massive Health and Health Regen,400,1995,Health
+0,3084,Overlord's Bloodmail,,Restores Health on kill or assist,900,1785,Health
+0,3085,Runaan's Hurricane,,Ranged attacks fire two bolts at nearby enemies,600,1820,CriticalStrike
+0,3086,Zeal,"['3085', '3094', '3046', '3087']","Slight bonuses to Critical Strike Chance, Movement Speed and Attack Speed",300,980,AttackSpeed
+0,3087,Statikk Shiv,,Movement builds charges that release chain lightning on basic attack,500,1820,AttackSpeed
+0,3089,Rabadon's Deathcap,['3374'],Massively increases Ability Power,1100,2520,SpellDamage
+0,3091,Wit's End,,Resist magic damage and claw your way back to life.,880,2030,SpellBlock
+0,3094,Rapid Firecannon,,Movement builds charges that release a sieging fire attack on release,500,1820,AttackSpeed
+0,3095,Stormrazor,,Tremendously empower other Energized effects.,400,2240,Damage
+0,3100,Lich Bane,,Grants a bonus to next attack after spell cast,450,2240,SpellDamage
+0,3101,Stinger,"['3115', '3137', '3078']",Increased Attack Speed and Cooldown Reduction,500,770,AttackSpeed
+0,3102,Banshee's Veil,,Periodically blocks enemy abilities,800,2100,SpellBlock
+0,3105,Aegis of the Legion,"['3190', '3050', '3812']",Grants Armor and Magic Resistance,350,770,SpellBlock
+0,3107,Redemption,['3382'],Activate to heal allies and damage enemies in an area,650,1470,Health
+0,3108,Fiendish Codex,"['3174', '3115', '3157', '1402', '1414', '3102', '3905']",Increases Ability Power and Cooldown Reduction,465,630,CooldownReduction
+0,3109,Knight's Vow,,Partner with an ally to protect each other,600,1540,Health
+0,3110,Frozen Heart,,Massively increases Armor and slows enemy basic attacks,800,1890,Armor
+0,3111,Mercury's Treads,,Increases Movement Speed and reduces duration of disabling effects,350,770,Boots
+0,3112,Guardian's Orb,,Good starting item for mages,950,380,Health
+0,3113,Aether Wisp,"['3100', '3504', '3673', '3905', '3907']",Increases Ability Power and Movement Speed,415,595,NonbootsMovement
+0,3114,Forbidden Idol,"['2065', '3107', '3222', '3504']","Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction",550,560,CooldownReduction
+0,3115,Nashor's Tooth,,"Increases Attack Speed, Ability Power, and Cooldown Reduction",1000,2100,AttackSpeed
+0,3116,Rylai's Crystal Scepter,,Abilities slow enemies,915,1820,Health
+0,3117,Boots of Mobility,,Greatly enhances Movement Speed when out of combat,700,700,Boots
+0,3123,Executioner's Calling,['3033'],Overcomes enemies with high health gain,450,560,Damage
+0,3124,Guinsoo's Rageblade,,"Increases Attack Speed, Armor Penetration, and Magic Penetration",790,2170,Damage
+0,3133,Caulfield's Warhammer,"['1400', '1412', '3812', '3142', '3147', '3156', '3508', '3671']",Attack Damage and Cooldown Reduction,400,770,Damage
+0,3134,Serrated Dirk,"['3142', '3179', '3814', '3147', '3181']",Increases Attack Damage and Lethality,400,770,Damage
+0,3135,Void Staff,,Increases magic damage,1365,1855,MagicPenetration
+0,3136,Haunting Guise,['3151'],Increases magic damage,665,1050,Health
+0,3137,Dervish Blade,,Activate to remove all debuffs and grant massive Movement Speed,300,1890,Active
+0,3139,Mercurial Scimitar,,Activate to remove all crowd control debuffs and grant massive Movement Speed,325,2380,SpellBlock
+0,3140,Quicksilver Sash,"['3139', '3137']",Activate to remove all crowd control debuffs,850,910,Active
+0,3142,Youmuu's Ghostblade,['3388'],Activate to greatly increase Movement Speed,700,2030,Damage
+0,3143,Randuin's Omen,,"Greatly increases defenses, activate to slow nearby enemies",900,2030,Active
+0,3144,Bilgewater Cutlass,"['3146', '3153']",Activate to deal magic damage and slow target champion,350,1120,Active
+0,3145,Hextech Revolver,"['3146', '3152', '3030']",Increases Ability Power. Deal bonus magic damage on attack periodically.,180,735,SpellDamage
+0,3146,Hextech Gunblade,,"Increases Attack Damage and Ability Power, activate to slow a target",750,2380,Active
+0,3147,Duskblade of Draktharr,,Deals additional physical damage when ambushing enemies,700,2030,Damage
+0,3151,Liandry's Torment,,Spell damage burns enemies for a portion of their Health,750,2170,Health
+0,3152,Hextech Protobelt-01,,Activate to dash forward and unleash a fiery explosion,650,1750,Health
+0,3153,Blade of the Ruined King,['3389'],"Deals damage based on target's Health, can steal Movement Speed",700,2310,Damage
+0,3155,Hexdrinker,['3156'],Increases Attack Damage and Magic Resist,500,910,Damage
+0,3156,Maw of Malmortius,,Grants bonus Attack Damage when Health is low,850,2275,SpellBlock
+0,3157,Zhonya's Hourglass,['3386'],Activate to become invincible but unable to take actions,250,2030,Armor
+0,3158,Ionian Boots of Lucidity,,Increases Movement Speed and Cooldown Reduction,600,630,Boots
+0,3161,Spear of Shojin,,"After casting your ultimate, your basic attacks reduces your remaining non-ultimate cooldowns.",950,2380,Health
+0,3165,Morellonomicon,,Increases magic damage,550,2100,Health
+0,3174,Athene's Unholy Grail,,Deal damage to empower your heals and shields,400,1470,SpellBlock
+0,3175,Head of Kha'Zix,,,0,0,Active
+0,3179,Umbral Glaive,,Provides trap and ward detection periodically,600,1680,Damage
+0,3181,Sanguine Blade,,When hunting lone enemy champions gain Attack Speed and Lethality,1100,2170,Damage
+0,3184,Guardian's Hammer,,Good starting item for attackers,950,380,Health
+0,3190,Locket of the Iron Solari,['3383'],Activate to shield nearby allies from damage,650,1540,SpellBlock
+0,3191,Seeker's Armguard,['3157'],Increases Armor and Ability Power,65,770,Armor
+0,3193,Gargoyle Stoneplate,,Greatly increases defense near multiple enemies.,330,1750,Health
+0,3194,Adaptive Helm,,Reduces damage from repeated spells and effects.,1000,1960,Health
+0,3196,Hex Core mk-1,['3197'],Allows Viktor to improve an ability of his choice,1150,805,Mana
+0,3197,Hex Core mk-2,['3198'],Allows Viktor to improve an ability of his choice,1000,1505,Mana
+0,3198,Perfect Hex Core,,Allows Viktor to improve an ability of his choice,850,2100,Mana
+0,3200,Prototype Hex Core,['3196'],Increases Ability Power and can be upgraded to improve Viktor's abilities,0,0,
+0,3211,Spectre's Cowl,"['3065', '3194']",Improves defense and grants regeneration upon being damaged,350,840,Health
+0,3222,Mikael's Crucible,,Activate to remove all disabling effects from an allied champion,500,1470,SpellBlock
+0,3285,Luden's Echo,['3390'],"Increases Ability Power, Mana, and Cooldown Reduction",1050,2240,SpellDamage
+0,3340,Warding Totem (Trinket),,Periodically place a Stealth Ward,0,0,Active
+0,3348,Arcane Sweeper,,Activate to reveal a nearby area of the map,0,0,Vision
+0,3361,Greater Stealth Totem (Trinket),,Periodically place a Stealth Ward,250,175,Active
+0,3362,Greater Vision Totem (Trinket),,Periodically place a Vision Ward,250,175,Active
+0,3363,Farsight Alteration,,Grants increased range and reveals the targetted area,0,0,Active
+0,3364,Oracle Lens,,Disables nearby invisible wards and traps for a duration,0,0,Active
+0,3371,Molten Edge,,Massively enhances critical strikes,0,2380,Damage
+0,3373,Forgefire Cape,,Constantly deals damage to nearby enemies,0,1925,Health
+0,3374,Rabadon's Deathcrown,,Massively increases Ability Power,0,2520,SpellDamage
+0,3379,Infernal Mask,,Nearby enemies take more magic damage,0,2100,Health
+0,3380,Obsidian Cleaver,,Dealing physical damage to enemy champions reduces their Armor,0,2100,ArmorPenetration
+0,3382,Salvation,,Activate to heal allies and damage enemies in an area,0,1470,Health
+0,3383,Circlet of the Iron Solari,,Activate to shield nearby allies from damage,0,1540,SpellBlock
+0,3384,Trinity Fusion,,Tons of Damage,0,2613,Health
+0,3386,Zhonya's Paradox,,Activate to become invincible but unable to take actions,0,2030,Armor
+0,3387,Frozen Fist,,Basic attacks create a slow field after spell cast,0,1890,Armor
+0,3388,Youmuu's Wraithblade,,Activate to greatly increase Movement Speed,0,2030,Damage
+0,3389,Might of the Ruined King,,"Deals damage based on target's Health, can steal Movement Speed",0,2310,Damage
+0,3390,Luden's Pulse,,"Increases Ability Power, Mana, and Cooldown Reduction",0,2240,SpellDamage
+0,3400,'Your Cut',,,0,0,Consumable
+0,3410,Head of Kha'Zix,,,0,0,Active
+0,3416,Head of Kha'Zix,,,0,0,Active
+0,3422,Head of Kha'Zix,,,0,0,Active
+0,3455,Head of Kha'Zix,,,0,0,Active
+0,3504,Ardent Censer,,Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.,650,1610,CooldownReduction
+0,3508,Essence Reaver,,"Grants Critical Strike Chance, Cooldown Reduction, Attack Damage and restores mana on hit.",100,2310,Damage
+0,3513,Eye of the Herald,,Eye of the Herald - a Gift of the Void.,0,0,Trinket
+0,3514,Eye of the Herald,,Eye of the Herald - a Gift of the Void.,0,0,Trinket
+0,3520,Ghost Poro,,,0,0,Vision
+0,3599,Black Spear,,Kalista's spear that binds an Oathsworn Ally.,0,0,Active
+0,3600,Black Spear,,Kalista's spear that binds an Oathsworn Ally.,0,0,Active
+0,3671,Enchantment: Warrior,,,525,1138,
+0,3672,Enchantment: Cinderhulk,,,525,998,
+0,3673,Enchantment: Runic Echoes,,,340,1138,
+0,3675,Enchantment: Bloodrazor,,,625,1138,
+0,3680,Frosted Snax,,King: Fires a barrage of icy artillery,0,0,Trinket
+0,3681,Super Spicy Snax,,King: Shoots flames that burn units and Turrets,0,0,Trinket
+0,3682,Espresso Snax,,King: Knocks back and grants a large shield,0,0,Trinket
+0,3683,Rainbow Snax Party Pack!,,King: Poros knock enemies towards him,0,0,Trinket
+0,3684,Dawnbringer Snax,,King: Fires you at your target,0,0,Trinket
+0,3685,Nightbringer Snax,,"King: Summons tornadoes from behind, then fires them forward.",0,0,Trinket
+0,3690,Cosmic Shackle,,,0,0,
+0,3691,Singularity Lantern,,,0,0,
+0,3692,Dark Matter Scythe,,,0,0,
+0,3693,Gravity Boots,,,0,0,
+0,3694,Cloak of Stars,,,0,0,
+0,3695,Dark Star Sigil,,,0,0,
+0,3706,Stalker's Blade,"['1401', '1400', '1402', '1416']",Lets your Smite slow Champions,300,700,LifeSteal
+0,3715,Skirmisher's Sabre,"['1412', '1413', '1414', '1419']","Lets your Smite mark Champions, giving you combat power against them.",300,700,LifeSteal
+0,3742,Dead Man's Plate,,Build momentum as you move around then smash into enemies.,1100,2030,Health
+0,3748,Titanic Hydra,,Deals area of effect damage based on owner's health,575,2450,Health
+0,3751,Bami's Cinder,"['3068', '1401', '1413', '3672']",Grants Health and Immolate Aura,500,630,Health
+0,3800,Righteous Glory,,"Grants Health, Mana, and Armor. Activate to speed towards enemies and slow them.",1100,1855,Health
+0,3801,Crystalline Bracer,"['3084', '3083', '2065', '3800', '3107']",Grants Health and Health Regen,100,455,Health
+0,3802,Lost Chapter,"['3003', '3007', '3030', '3285']",Restores Mana upon levelling up.,80,910,SpellDamage
+0,3812,Death's Dance,,Trades incoming damage now for incoming damage later,500,2520,SpellBlock
+0,3814,Edge of Night,,Periodically blocks enemy abilities,525,2030,Health
+0,3850,Spellthief's Edge,,Gain gold and upgrade by damaging enemy champions,400,160,Health
+0,3851,Frostfang,,,400,160,GoldPer
+0,3853,Shard of True Ice,,,400,160,GoldPer
+0,3854,Steel Shoulderguards,,Gain gold and upgrade by executing minions alongside allies,400,160,Health
+0,3855,Runesteel Spaulders,,,400,160,Health
+0,3857,Pauldrons of Whiterock,,,400,160,Health
+0,3858,Relic Shield,,Gain gold and upgrade by executing minions alongside allies,400,160,Health
+0,3859,Targon's Buckler,,,400,160,Health
+0,3860,Bulwark of the Mountain,,,400,160,Health
+0,3862,Spectral Sickle,,Gain gold and upgrade by damaging enemy champions,400,160,Health
+0,3863,Harrowing Crescent,,,400,160,Health
+0,3864,Black Mist Scythe,,,400,160,Health
+0,3901,Fire at Will,,Cannon Barrage gains extra waves,0,0,
+0,3902,Death's Daughter,,Cannon Barrage fires a mega-cannonball,0,0,
+0,3903,Raise Morale,,Cannon Barrage hastes allies,0,0,
+0,3905,Twin Shadows,,Increases Ability Power and Movement Speed,650,1680,SpellDamage
+0,3907,Spellbinder,,Stores nearby spellcasts and can consume them to grant Movement Speed and Ability Power.,800,2030,SpellDamage
+0,3916,Oblivion Orb,['3165'],Increases magic damage,765,1120,Health
