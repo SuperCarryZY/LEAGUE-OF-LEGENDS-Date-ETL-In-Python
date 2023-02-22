@@ -1,17 +1,10 @@
-# Python-ETL-of-LEAGUE-OF-LEGENDS
-League of legends data processing
+# Python-ETL-of-LEAGUE-OF-LEGENDS-Data
+This project is to design ETL, and the data set is the ranking data of the League of Heroes. We extract data from csv and find ways to improve the winning rate of players from these data
+
+![image](https://user-images.githubusercontent.com/121896846/220762906-2cf60d3c-d489-4c92-a996-e11b999ae395.png)
 
 # About Dataset
-Introduction
-challenger, grandmaster, master 100,800 game data(korea, 2020)
-There are three large categories
-team object data
-participants data
-gameDuration
-File extension is .pickle
-because of many column is json data type
-The csv extension does not preserve the json data type.
-The pickle extension does preserve the json data type.
+League of Legends (LOL) - Ranking game 2020
 
 
 # Data summary
